@@ -1,8 +1,6 @@
-## Nosha Industries
+## Artea Station
 ###### Totally not me experimenting with hard-forking SR to prove a point.
 
-This is a semi-closed organisation explicitly for testing forking of SR and keeping up to date with critical fixes on my lonesome self. Contributions are welcome, but ultimately unnecessary.
+This is a semi-closed organisation explicitly for testing forking of SR and keeping up to date with critical fixes on my lonesome self. Contributions are welcome, and you can find our discord at https://discord.gg/kKdBGNEG.
 
-I might also use this as a testbed for various invasive overhauls that I might want to do without dealing with SR modularity.
-
-Who knows, maybe a server will come out of this if I find enough folk.
+Turns out enough interest was generated for me to actually go ahead with making a server, so keep an eye out!
